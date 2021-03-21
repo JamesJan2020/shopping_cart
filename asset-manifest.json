@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/shopping_cart/static/css/main.bb6bfd3a.chunk.css",
+    "main.css": "/shopping_cart/static/css/main.90516b90.chunk.css",
     "main.js": "/shopping_cart/static/js/main.38a497b2.chunk.js",
     "main.js.map": "/shopping_cart/static/js/main.38a497b2.chunk.js.map",
     "runtime-main.js": "/shopping_cart/static/js/runtime-main.a5f1ce6c.js",
@@ -8,7 +8,7 @@
     "static/js/2.7b29ed41.chunk.js": "/shopping_cart/static/js/2.7b29ed41.chunk.js",
     "static/js/2.7b29ed41.chunk.js.map": "/shopping_cart/static/js/2.7b29ed41.chunk.js.map",
     "index.html": "/shopping_cart/index.html",
-    "static/css/main.bb6bfd3a.chunk.css.map": "/shopping_cart/static/css/main.bb6bfd3a.chunk.css.map",
+    "static/css/main.90516b90.chunk.css.map": "/shopping_cart/static/css/main.90516b90.chunk.css.map",
     "static/js/2.7b29ed41.chunk.js.LICENSE.txt": "/shopping_cart/static/js/2.7b29ed41.chunk.js.LICENSE.txt",
     "static/media/bars-solid.e8db7520.svg": "/shopping_cart/static/media/bars-solid.e8db7520.svg",
     "static/media/luggage-cart-solid.d7a2e8da.svg": "/shopping_cart/static/media/luggage-cart-solid.d7a2e8da.svg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.a5f1ce6c.js",
     "static/js/2.7b29ed41.chunk.js",
-    "static/css/main.bb6bfd3a.chunk.css",
+    "static/css/main.90516b90.chunk.css",
     "static/js/main.38a497b2.chunk.js"
   ]
 }
