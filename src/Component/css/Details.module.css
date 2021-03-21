@@ -147,3 +147,24 @@ section .details {
     background-color: red;
     transition: .2s linear;
 }
+
+@media (max-width:736px) {
+    .box .cart {
+        display: inline-block;
+        margin: 5px;
+        text-decoration: none;
+        background-color: rgb(128, 157, 212);
+        color: white;
+        padding: 10px 25px;
+        text-transform: uppercase;
+    }
+    .box .back {
+        display: inline-block;
+        margin: 5px;
+        text-decoration: none;
+        background-color: rgb(175, 172, 172);
+        color: white;
+        padding: 10px 25px;
+        text-transform: uppercase;
+    }
+}
