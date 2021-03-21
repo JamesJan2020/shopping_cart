@@ -4,4 +4,7 @@
 
 ![image](https://github.com/JamesJan2020/shopping_cart/blob/master/product_page.JPG)
 
+RWD
+
+![image](https://github.com/JamesJan2020/shopping_cart/blob/master/product_page_rwd.JPG)
 
